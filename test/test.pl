@@ -1,4 +1,4 @@
 #!/usr/bin/perl
 #comment
-system("perl ../test/hello.pl");
+system("perl ../code/hello.pl");
 
