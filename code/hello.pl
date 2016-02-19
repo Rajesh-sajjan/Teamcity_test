@@ -2,5 +2,4 @@
 print "Hello World";
 print "Successful pull request test";
 print "commit test";
-print "commit";
 
